@@ -1,4 +1,4 @@
-# 이미지 객체 분할 기반 검색정보 매핑 시스템 개발
+# 이미지 객체 분할 기반 검색정보 매핑 시스템 (이거 어디서 사?)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50130497/200178553-bb6d3f4c-1eb7-4e9a-a9f3-63a04b13d94f.gif)
 
 <!-- ![model1](https://user-images.githubusercontent.com/50130497/176148142-8f2f2030-e5f2-44de-b2f9-4892a5e7ad58.png)
